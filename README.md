@@ -15,3 +15,6 @@ Note, app.js for firstApp & secondApp will not contain ExtJS framework
 4. Go to browser and load the app at - http://localhost:1841/build/production/cloudBase
 
 5. In order to run de mode, look for the "// NOTE:" comments which I have left in the code.
+
+
+Reference: https://docs.sencha.com/cmd/5.x/workspaces.html
